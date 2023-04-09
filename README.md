@@ -33,7 +33,7 @@ https://github.com/swaruplab/Single-nuclei-epigenomic-and-transcriptomic-landsca
 
 
 
-Alzheimer's disease dataset web portal:
+Single cell/nuclues RNA-seq dataset web portal:
 
 The Alzheimer's Cell Atlas - A Single-Cell Type Transcriptomics and Network Pathobiology Map for Target Identification and Drug Repurposing </br>
 https://taca.lerner.ccf.org/ </br>
