@@ -1,5 +1,5 @@
 # scRNA-seq
-Gathering of codes and information about single cell sequencing
+Gathering of codes and information about single cell sequencing </br></br>
 
 
 Reference list:
@@ -20,7 +20,7 @@ EnhancedVolcano, Publication-ready volcano plots with enhanced colouring and lab
 https://github.com/kevinblighe/EnhancedVolcano </br>
 
 ComplexHeatmap, Make Complex Heatmaps </br>
-https://github.com/jokergoo/ComplexHeatmap </br>
+https://github.com/jokergoo/ComplexHeatmap </br></br>
 
 
 Analysis codes:
@@ -29,7 +29,7 @@ Use of scREAD to explore and analyze single-cell and single-nucleus RNA-seq data
 https://github.com/OSU-BMBL/scread-protocol/tree/master/workflow </br>
 
 Single nucleus chromatin accessibility and transcriptomic characterization of Alzheimer's Disease </br>
-https://github.com/swaruplab/Single-nuclei-epigenomic-and-transcriptomic-landscape-in-Alzheimer-disease/ </br>
+https://github.com/swaruplab/Single-nuclei-epigenomic-and-transcriptomic-landscape-in-Alzheimer-disease/ </br></br>
 
 
 
