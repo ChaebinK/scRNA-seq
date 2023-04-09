@@ -30,3 +30,13 @@ https://github.com/OSU-BMBL/scread-protocol/tree/master/workflow </br>
 
 Single nucleus chromatin accessibility and transcriptomic characterization of Alzheimer's Disease </br>
 https://github.com/swaruplab/Single-nuclei-epigenomic-and-transcriptomic-landscape-in-Alzheimer-disease/ </br>
+
+
+
+Alzheimer's disease dataset web portal:
+
+The Alzheimer's Cell Atlas - A Single-Cell Type Transcriptomics and Network Pathobiology Map for Target Identification and Drug Repurposing </br>
+https://taca.lerner.ccf.org/ </br>
+
+
+
